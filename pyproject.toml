@@ -1,0 +1,35 @@
+[project]
+name = "knots-assessment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project.optional-dependecies]
+dev = [
+    "pytest>=7.4",
+    "ruff>=0.1",
+]
+
+[project.scripts]
+dataplatform = "dataplatform.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.packages.find]
+where = ["tests"]
+
+[tool.ruff]
+line-length = 100 
+target-version = "py310"
+
+[tools.uv.workspace]
+members = [
+    "knots-Assessment",
+]

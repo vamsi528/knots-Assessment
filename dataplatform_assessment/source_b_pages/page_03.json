@@ -1,0 +1,2768 @@
+{
+ "page": 3,
+ "per_page": 120,
+ "total_pages": 6,
+ "total_count": 703,
+ "data": [
+  {
+   "id": "acc_1096",
+   "attributes": {
+    "name": "Stark Health 1096",
+    "email": "ops1096@stark.example",
+    "created_at": "2022-08-22T16:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2272762,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_940",
+   "attributes": {
+    "name": "Umbrella Health 940",
+    "email": "ops940@umbrella.example",
+    "created_at": "2022-08-08T20:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2898082,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_624",
+   "attributes": {
+    "name": "Vertex Partners 624",
+    "email": "ops624@vertex.example",
+    "created_at": "2024-02-17T11:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3281414,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_435",
+   "attributes": {
+    "name": "Stark Partners 435",
+    "email": "ops435@stark.example",
+    "created_at": "2022-11-25T13:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1352362,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_221",
+   "attributes": {
+    "name": "Acme Systems 221",
+    "email": "ops221@acme.example",
+    "created_at": "2025-01-01T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3491223,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_640",
+   "attributes": {
+    "name": "Northwind Partners 640",
+    "email": "ops640@northwind.example",
+    "created_at": "2024-03-04T08:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2707886,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_832",
+   "attributes": {
+    "name": "Acme Foods 832",
+    "email": "ops832@acme.example",
+    "created_at": "2025-02-01T23:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1245308,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_892",
+   "attributes": {
+    "name": "Umbrella Health 892",
+    "email": "ops892@umbrella.example",
+    "created_at": "2022-07-29T03:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2297717,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_76",
+   "attributes": {
+    "name": "Soylent Networks 76",
+    "email": "ops76@soylent.example",
+    "created_at": "2025-02-17T17:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2620747,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1270",
+   "attributes": {
+    "name": "Umbrella Holdings 1270",
+    "email": "ops1270@umbrella.example",
+    "created_at": "2022-03-12T23:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1854878,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1355",
+   "attributes": {
+    "name": "Tyrell Labs 1355",
+    "email": "ops1355@tyrell.example",
+    "created_at": "2023-07-28T08:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2298168,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_111",
+   "attributes": {
+    "name": "Meridian Industries 111",
+    "email": "ops111@meridian.example",
+    "created_at": "2025-03-16T00:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4326982,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_285",
+   "attributes": {
+    "name": "Aperture Health 285",
+    "email": "ops285@aperture.example",
+    "created_at": "2023-10-06T23:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 793747,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_867",
+   "attributes": {
+    "name": "Umbrella Industries 867",
+    "email": "ops867@umbrella.example",
+    "created_at": "2024-11-08T09:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 241149,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_158",
+   "attributes": {
+    "name": "Cyberdyne Foods 158",
+    "email": "ops158@cyberdyne.example",
+    "created_at": "2023-12-23T08:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3799314,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_548",
+   "attributes": {
+    "name": "Northwind Health 548",
+    "email": "ops548@northwind.example",
+    "created_at": "2023-12-28T01:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 44328,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1190",
+   "attributes": {
+    "name": "Globex Holdings 1190",
+    "email": "ops1190@globex.example",
+    "created_at": "2024-12-09T04:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3993932,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1217",
+   "attributes": {
+    "name": "Globex Health 1217",
+    "email": "ops1217@globex.example",
+    "created_at": "2022-01-04T20:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1215246,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1248",
+   "attributes": {
+    "name": "Hooli Health 1248",
+    "email": "ops1248@hooli.example",
+    "created_at": "2023-07-06T22:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3164915,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_984",
+   "attributes": {
+    "name": "Vertex Partners 984",
+    "email": "ops984@vertex.example",
+    "created_at": "2022-10-07T16:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3288701,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1075",
+   "attributes": {
+    "name": "Virtucon Networks 1075",
+    "email": "ops1075@virtucon.example",
+    "created_at": "2022-06-14T08:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1808370,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_926",
+   "attributes": {
+    "name": "Hooli Health 926",
+    "email": "ops926@hooli.example",
+    "created_at": "2022-12-15T18:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3125429,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_784",
+   "attributes": {
+    "name": "Aperture Labs 784",
+    "email": "ops784@aperture.example",
+    "created_at": "2024-11-24T09:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3784541,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_701",
+   "attributes": {
+    "name": "Meridian Traders 701",
+    "email": "ops701@meridian.example",
+    "created_at": "2022-08-04T18:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 931928,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_70",
+   "attributes": {
+    "name": "Soylent Labs 70",
+    "email": "ops70@soylent.example",
+    "created_at": "2022-10-02T05:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2099076,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_160",
+   "attributes": {
+    "name": "Tyrell Labs 160",
+    "email": "ops160@tyrell.example",
+    "created_at": "2023-04-06T22:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1145067,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_339",
+   "attributes": {
+    "name": "Tyrell Ventures 339",
+    "email": "ops339@tyrell.example",
+    "created_at": "2022-11-11T18:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2475778,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_625",
+   "attributes": {
+    "name": "Vertex Solutions 625",
+    "email": "ops625@vertex.example",
+    "created_at": "2022-12-29T01:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1814187,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_938",
+   "attributes": {
+    "name": "Hooli Solutions 938",
+    "email": "ops938@hooli.example",
+    "created_at": "2024-10-01T04:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2282547,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_603",
+   "attributes": {
+    "name": "Stark Holdings 603",
+    "email": "ops603@stark.example",
+    "created_at": "2024-11-10T19:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 212750,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1014",
+   "attributes": {
+    "name": "Northwind Holdings 1014",
+    "email": "ops1014@northwind.example",
+    "created_at": "2022-07-27T01:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1345585,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_354",
+   "attributes": {
+    "name": "Hooli Traders 354",
+    "email": "ops354@hooli.example",
+    "created_at": "2022-02-22T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 4195164,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_154",
+   "attributes": {
+    "name": "Cyberdyne Foods 154",
+    "email": "ops154@cyberdyne.example",
+    "created_at": "2023-08-06T04:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2552611,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1125",
+   "attributes": {
+    "name": "Cyberdyne Systems 1125",
+    "email": "ops1125@cyberdyne.example",
+    "created_at": "2023-08-11T21:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4170466,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_903",
+   "attributes": {
+    "name": "Globex Foods 903",
+    "email": "ops903@globex.example",
+    "created_at": "2024-01-18T17:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1385531,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1180",
+   "attributes": {
+    "name": "Meridian Group 1180",
+    "email": "ops1180@meridian.example",
+    "created_at": "2023-11-18T05:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1580977,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_299",
+   "attributes": {
+    "name": "Initech Industries 299",
+    "email": "ops299@initech.example",
+    "created_at": "2022-12-01T16:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2772034,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_650",
+   "attributes": {
+    "name": "Initech Partners 650",
+    "email": "ops650@initech.example",
+    "created_at": "2025-03-25T04:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 854112,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_794",
+   "attributes": {
+    "name": "Globex Partners 794",
+    "email": "ops794@globex.example",
+    "created_at": "2024-11-01T19:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1409835,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_294",
+   "attributes": {
+    "name": "Wayne Labs 294",
+    "email": "ops294@wayne.example",
+    "created_at": "2025-02-23T05:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 593718,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1111",
+   "attributes": {
+    "name": "Aperture Group 1111",
+    "email": "ops1111@aperture.example",
+    "created_at": "2022-09-23T14:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1900505,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1017",
+   "attributes": {
+    "name": "Globex Partners 1017",
+    "email": "ops1017@globex.example",
+    "created_at": "2022-05-12T10:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1818993,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_367",
+   "attributes": {
+    "name": "Soylent Industries 367",
+    "email": "ops367@soylent.example",
+    "created_at": "2024-01-02T12:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4096415,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_503",
+   "attributes": {
+    "name": "Initech Partners 503",
+    "email": "ops503@initech.example",
+    "created_at": "2024-08-30T22:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3317342,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_72",
+   "attributes": {
+    "name": "Vertex Systems 72",
+    "email": "ops72@vertex.example",
+    "created_at": "2022-05-29T13:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2210786,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_381",
+   "attributes": {
+    "name": "Umbrella Ventures 381",
+    "email": "ops381@umbrella.example",
+    "created_at": "2022-02-01T06:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3968748,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1227",
+   "attributes": {
+    "name": "Northwind Foods 1227",
+    "email": "ops1227@northwind.example",
+    "created_at": "2023-03-27T16:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 4416033,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_280",
+   "attributes": {
+    "name": "Initech Ventures 280",
+    "email": "ops280@initech.example",
+    "created_at": "2024-12-16T12:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3913674,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_798",
+   "attributes": {
+    "name": "Cyberdyne Group 798",
+    "email": "ops798@cyberdyne.example",
+    "created_at": "2022-12-09T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3033640,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1296",
+   "attributes": {
+    "name": "Hooli Health 1296",
+    "email": "ops1296@hooli.example",
+    "created_at": "2022-07-27T21:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3028148,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_55",
+   "attributes": {
+    "name": "Globex Traders 55",
+    "email": "ops55@globex.example",
+    "created_at": "2023-03-30T16:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 222602,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_131",
+   "attributes": {
+    "name": "Stark Traders 131",
+    "email": "ops131@stark.example",
+    "created_at": "2022-05-10T06:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2170987,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_704",
+   "attributes": {
+    "name": "Vertex Holdings 704",
+    "email": "ops704@vertex.example",
+    "created_at": "2022-01-02T23:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2048130,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_442",
+   "attributes": {
+    "name": "Initech Partners 442",
+    "email": "ops442@initech.example",
+    "created_at": "2024-05-27T17:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 4107415,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_275",
+   "attributes": {
+    "name": "Globex Networks 275",
+    "email": "ops275@globex.example",
+    "created_at": "2023-04-01T22:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1980907,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_145",
+   "attributes": {
+    "name": "Tyrell Traders 145",
+    "email": "ops145@tyrell.example",
+    "created_at": "2022-04-12T14:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2612600,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1238",
+   "attributes": {
+    "name": "Northwind Traders 1238",
+    "email": "ops1238@northwind.example",
+    "created_at": "2024-04-05T17:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 544320,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1105",
+   "attributes": {
+    "name": "Soylent Labs 1105",
+    "email": "ops1105@soylent.example",
+    "created_at": "2024-03-31T05:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1206599,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_3",
+   "attributes": {
+    "name": "Oceanic Group 3",
+    "email": "ops3@oceanic.example",
+    "created_at": "2024-08-15T05:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2252755,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1130",
+   "attributes": {
+    "name": "Virtucon Group 1130",
+    "email": "ops1130@virtucon.example",
+    "created_at": "2024-12-07T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2933866,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_341",
+   "attributes": {
+    "name": "Acme Logistics 341",
+    "email": "ops341@acme.example",
+    "created_at": "2025-01-09T16:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1189901,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1013",
+   "attributes": {
+    "name": "Soylent Partners 1013",
+    "email": "ops1013@soylent.example",
+    "created_at": "2024-03-17T12:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2869159,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_323",
+   "attributes": {
+    "name": "Globex Health 323",
+    "email": "ops323@globex.example",
+    "created_at": "2022-03-27T18:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2264777,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1118",
+   "attributes": {
+    "name": "Hooli Analytics 1118",
+    "email": "ops1118@hooli.example",
+    "created_at": "2024-10-18T19:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2264127,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_748",
+   "attributes": {
+    "name": "Globex Health 748",
+    "email": "ops748@globex.example",
+    "created_at": "2022-09-10T03:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3517296,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1007",
+   "attributes": {
+    "name": "Cyberdyne Holdings 1007",
+    "email": "ops1007@cyberdyne.example",
+    "created_at": "2023-05-28T05:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2339490,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_647",
+   "attributes": {
+    "name": "Globex Foods 647",
+    "email": "ops647@globex.example",
+    "created_at": "2022-05-19T13:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 482952,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_100255",
+   "attributes": {
+    "name": "Tyrell Industries 255 (Regional)",
+    "email": "ops255@tyrell.example",
+    "created_at": "2023-03-29T16:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 4427244,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_75",
+   "attributes": {
+    "name": "Aperture Logistics 75",
+    "email": "ops75@aperture.example",
+    "created_at": "2025-01-15T06:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1474983,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1143",
+   "attributes": {
+    "name": "Soylent Partners 1143",
+    "email": "ops1143@soylent.example",
+    "created_at": "2022-07-23T05:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1736881,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_314",
+   "attributes": {
+    "name": "Initech Holdings 314",
+    "email": "ops314@initech.example",
+    "created_at": "2023-07-27T17:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3774692,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_380",
+   "attributes": {
+    "name": "Aperture Traders 380",
+    "email": "ops380@aperture.example",
+    "created_at": "2024-03-18T00:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 62421,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_678",
+   "attributes": {
+    "name": "Northwind Group 678",
+    "email": "ops678@northwind.example",
+    "created_at": "2022-02-21T04:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2496487,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1302",
+   "attributes": {
+    "name": "Meridian Industries 1302",
+    "email": "ops1302@meridian.example",
+    "created_at": "2024-06-30T08:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4170666,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1071",
+   "attributes": {
+    "name": "Soylent Health 1071",
+    "email": "ops1071@soylent.example",
+    "created_at": "2022-06-09T20:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1809764,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1152",
+   "attributes": {
+    "name": "Vertex Holdings 1152",
+    "email": "ops1152@vertex.example",
+    "created_at": "2025-02-25T08:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3512699,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1177",
+   "attributes": {
+    "name": "Stark Traders 1177",
+    "email": "ops1177@stark.example",
+    "created_at": "2022-10-22T23:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1514669,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_1115",
+   "attributes": {
+    "name": "Oceanic Solutions 1115",
+    "email": "ops1115@oceanic.example",
+    "created_at": "2024-08-29T08:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2453710,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_515",
+   "attributes": {
+    "name": "Stark Partners 515",
+    "email": "ops515@stark.example",
+    "created_at": "2023-05-18T08:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2994191,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_628",
+   "attributes": {
+    "name": "Aperture Networks 628",
+    "email": "ops628@aperture.example",
+    "created_at": "2023-07-26T06:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1702625,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_870",
+   "attributes": {
+    "name": "Acme Systems 870",
+    "email": "ops870@acme.example",
+    "created_at": "2022-03-14T04:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2245755,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1386",
+   "attributes": {
+    "name": "Wayne Labs 1386",
+    "email": "ops1386@wayne.example",
+    "created_at": "2025-03-02T05:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 4183837,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_483",
+   "attributes": {
+    "name": "Initech Labs 483",
+    "email": "ops483@initech.example",
+    "created_at": "2022-04-14T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 24840,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_509",
+   "attributes": {
+    "name": "Initech Analytics 509",
+    "email": "ops509@initech.example",
+    "created_at": "2022-07-21T15:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2299886,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_822",
+   "attributes": {
+    "name": "Oceanic Traders 822",
+    "email": "ops822@oceanic.example",
+    "created_at": "2022-05-29T03:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1489245,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1219",
+   "attributes": {
+    "name": "Initech Partners 1219",
+    "email": "ops1219@initech.example",
+    "created_at": "2024-09-17T03:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3912151,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1200",
+   "attributes": {
+    "name": "Northwind Group 1200",
+    "email": "ops1200@northwind.example",
+    "created_at": "2024-06-25T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 4144701,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1229",
+   "attributes": {
+    "name": "Stark Networks 1229",
+    "email": "ops1229@stark.example",
+    "created_at": "2023-03-18T21:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3789204,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_813",
+   "attributes": {
+    "name": "Acme Systems 813",
+    "email": "ops813@acme.example",
+    "created_at": "2025-02-03T05:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 237499,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_818",
+   "attributes": {
+    "name": "Oceanic Analytics 818",
+    "email": "ops818@oceanic.example",
+    "created_at": "2023-10-12T20:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3842929,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_265",
+   "attributes": {
+    "name": "Northwind Group 265",
+    "email": "ops265@northwind.example",
+    "created_at": "2022-12-11T19:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3081940,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_575",
+   "attributes": {
+    "name": "Globex Labs 575",
+    "email": "ops575@globex.example",
+    "created_at": "2024-03-28T05:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4195924,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_258",
+   "attributes": {
+    "name": "Initech Solutions 258",
+    "email": "ops258@initech.example",
+    "created_at": "2024-11-08T21:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1106947,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_325",
+   "attributes": {
+    "name": "Umbrella Analytics 325",
+    "email": "ops325@umbrella.example",
+    "created_at": "2022-12-25T19:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 542111,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_567",
+   "attributes": {
+    "name": "Initech Foods 567",
+    "email": "ops567@initech.example",
+    "created_at": "2023-07-30T23:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1686485,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_657",
+   "attributes": {
+    "name": "Globex Networks 657",
+    "email": "ops657@globex.example",
+    "created_at": "2024-12-26T22:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 2090650,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_942",
+   "attributes": {
+    "name": "Acme Logistics 942",
+    "email": "ops942@acme.example",
+    "created_at": "2023-07-21T00:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 1321628,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1064",
+   "attributes": {
+    "name": "Umbrella Labs 1064",
+    "email": "ops1064@umbrella.example",
+    "created_at": "2022-04-02T11:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 4098606,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_658",
+   "attributes": {
+    "name": "Virtucon Solutions 658",
+    "email": "ops658@virtucon.example",
+    "created_at": "2022-11-25T23:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1370903,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_963",
+   "attributes": {
+    "name": "Virtucon Partners 963",
+    "email": "ops963@virtucon.example",
+    "created_at": "2022-07-31T09:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 4209698,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_1001",
+   "attributes": {
+    "name": "Cyberdyne Holdings 1001",
+    "email": "ops1001@cyberdyne.example",
+    "created_at": "2022-03-12T14:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2827154,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_639",
+   "attributes": {
+    "name": "Acme Health 639",
+    "email": "ops639@acme.example",
+    "created_at": "2024-12-02T11:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 331519,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  },
+  {
+   "id": "acc_1366",
+   "attributes": {
+    "name": "Umbrella Industries 1366",
+    "email": "ops1366@umbrella.example",
+    "created_at": "2023-06-20T17:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3383275,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_415",
+   "attributes": {
+    "name": "Meridian Partners 415",
+    "email": "ops415@meridian.example",
+    "created_at": "2022-08-03T20:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 1081531,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_606",
+   "attributes": {
+    "name": "Meridian Logistics 606",
+    "email": "ops606@meridian.example",
+    "created_at": "2022-09-22T07:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 3694732,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_328",
+   "attributes": {
+    "name": "Northwind Networks 328",
+    "email": "ops328@northwind.example",
+    "created_at": "2022-04-04T18:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 309316,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_895",
+   "attributes": {
+    "name": "Initech Ventures 895",
+    "email": "ops895@initech.example",
+    "created_at": "2022-07-06T09:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2327496,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_95",
+   "attributes": {
+    "name": "Northwind Traders 95",
+    "email": "ops95@northwind.example",
+    "created_at": "2022-03-16T05:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2397645,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_348",
+   "attributes": {
+    "name": "Wayne Holdings 348",
+    "email": "ops348@wayne.example",
+    "created_at": "2023-03-31T13:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1980206,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_769",
+   "attributes": {
+    "name": "Stark Networks 769",
+    "email": "ops769@stark.example",
+    "created_at": "2024-12-23T03:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 72592,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_807",
+   "attributes": {
+    "name": "Hooli Foods 807",
+    "email": "ops807@hooli.example",
+    "created_at": "2024-06-04T19:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3447328,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_830",
+   "attributes": {
+    "name": "Globex Solutions 830",
+    "email": "ops830@globex.example",
+    "created_at": "2025-02-13T06:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 334148,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_71",
+   "attributes": {
+    "name": "Initech Holdings 71",
+    "email": "ops71@initech.example",
+    "created_at": "2022-07-13T00:00:00+00:00",
+    "region": "amer",
+    "revenue": {
+     "amount": 121753,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_690",
+   "attributes": {
+    "name": "Vertex Logistics 690",
+    "email": "ops690@vertex.example",
+    "created_at": "2022-04-20T16:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 2802990,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_973",
+   "attributes": {
+    "name": "Virtucon Holdings 973",
+    "email": "ops973@virtucon.example",
+    "created_at": "2023-10-14T17:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 1348657,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1369",
+   "attributes": {
+    "name": "Hooli Group 1369",
+    "email": "ops1369@hooli.example",
+    "created_at": "2023-07-04T01:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 3301193,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_84",
+   "attributes": {
+    "name": "Cyberdyne Traders 84",
+    "email": "ops84@cyberdyne.example",
+    "created_at": "2022-04-27T07:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3534474,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_amer"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1273",
+   "attributes": {
+    "name": "Northwind Ventures 1273",
+    "email": "ops1273@northwind.example",
+    "created_at": "2025-03-31T07:00:00+00:00",
+    "region": "apac",
+    "revenue": {
+     "amount": 3210606,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_1201",
+   "attributes": {
+    "name": "Hooli Industries 1201",
+    "email": "ops1201@hooli.example",
+    "created_at": "2023-11-08T23:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 2852015,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_apac"
+     }
+    }
+   },
+   "meta": {
+    "archived": false
+   }
+  },
+  {
+   "id": "acc_22",
+   "attributes": {
+    "name": "Soylent Systems 22",
+    "email": "ops22@soylent.example",
+    "created_at": "2024-07-07T17:00:00+00:00",
+    "region": "emea",
+    "revenue": {
+     "amount": 4210547,
+     "currency": "USD"
+    }
+   },
+   "relationships": {
+    "tenant": {
+     "data": {
+      "id": "tnt_emea"
+     }
+    }
+   },
+   "meta": {
+    "archived": true
+   }
+  }
+ ]
+}
